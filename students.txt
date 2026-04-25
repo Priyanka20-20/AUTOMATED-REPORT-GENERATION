@@ -1,0 +1,20 @@
+Name: Nisha Gupta
+Math: 85
+Science: 90
+English: 88
+Hindi: 69
+Marathi: 50
+
+Name: Rahul Kanjaria
+Math: 78
+Science: 82
+English: 80
+Hindi: 75
+Marathi: 45
+
+Name: Anjali Singh
+Math: 92
+Science: 95
+English: 91
+Hindi: 89
+Marathi: 92
