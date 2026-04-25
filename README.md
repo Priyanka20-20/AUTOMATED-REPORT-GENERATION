@@ -21,6 +21,3 @@ The next step involves generating a PDF report. Using the FPDF library, I design
 To enhance the visual appearance, formatting techniques such as font styling, spacing, alignment, and cell positioning were used. A signature section was also added at the end of each report to give it a realistic and professional look. The final PDF is saved with a proper file name and serves as the deliverable for this task.
 This task demonstrates the integration of file handling, data processing, and PDF generation in Python. It highlights how automation can simplify repetitive tasks like report creation. Such a system can be applied in educational institutions, training centers, and organizations to generate performance reports efficiently. Overall, this project helped in improving my understanding of Python programming, data handling, and real-world application development.
 
-
-Just tell me 👍
-
